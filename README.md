@@ -1,4 +1,4 @@
-🛒 SmartCart – Intelligent Shopping Prediction System
+🛒 **SmartCart – Intelligent Shopping Prediction System**
 
 📌 Overview
 
